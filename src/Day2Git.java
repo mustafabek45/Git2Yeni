@@ -4,6 +4,8 @@ public class Day2Git {
         System.out.println("Hello2");
         System.out.println("Hello branch");
         System.out.println("Master 1.deneme");
+        System.out.println("Branch 2. deneme");
+
 
 
 
